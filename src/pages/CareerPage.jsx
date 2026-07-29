@@ -18,12 +18,7 @@ export default function CareerPage() {
         <h3>Our career opportunities</h3>
         <p>At Target Traders Ltd, our career opportunities are organised around three main areas:</p>
 
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(3, 1fr)',
-          gap: 24,
-          margin: '32px 0'
-        }}>
+        <div className="career-grid">
           <div style={{ background: '#f7f9fc', borderRadius: 12, padding: 32 }}>
             <div style={{ fontSize: 40, marginBottom: 12 }}>🏪</div>
             <h4 style={{ fontSize: 18, fontWeight: 700, marginBottom: 8 }}>Points of sale</h4>

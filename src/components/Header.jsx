@@ -48,14 +48,25 @@ const DropdownLink = ({ to, children }) => {
 export default function Header() {
   const location = useLocation();
   const isActive = (path) => location.pathname === path;
+  const [mobileOpen, setMobileOpen] = useState(false);
+
+  useEffect(() => {
+    setMobileOpen(false);
+  }, [location]);
 
   return (
     <header className="header">
+      <div className={`mobile-overlay ${mobileOpen ? 'visible' : ''}`} onClick={() => setMobileOpen(false)}></div>
       <div className="header-inner">
         <Link to="/" className="header-logo">
           TARGET<span>TRADERS</span>
         </Link>
-        <nav className="header-nav">
+        <button className={`hamburger ${mobileOpen ? 'open' : ''}`} onClick={() => setMobileOpen(!mobileOpen)} aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav className={`header-nav ${mobileOpen ? 'mobile-open' : ''}`}>
           <NavItem label="WHO ARE WE">
             <DropdownLink to="/our-mission">Our mission</DropdownLink>
             <DropdownLink to="/our-values">Our values</DropdownLink>

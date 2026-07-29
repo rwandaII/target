@@ -13,12 +13,7 @@ export default function TargetParapharmaPage() {
         <p>We offer more than <strong>10,000 carefully selected products</strong> to meet all of your needs. Our products come from well-known brands as well as specialised laboratories, often unavailable through traditional channels. This diversity allows us to meet a wide range of needs, <strong>whatever your profile, expectations or lifestyle.</strong></p>
 
         <h3>A wide range tailored to your needs</h3>
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(3, 1fr)',
-          gap: 24,
-          margin: '32px 0'
-        }}>
+        <div className="parapharma-grid">
           {[
             { icon: '🧴', title: 'Beauty & Care' },
             { icon: '🧼', title: 'Hygiene' },

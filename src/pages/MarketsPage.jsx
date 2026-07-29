@@ -46,32 +46,26 @@ export default function MarketsPage() {
         </section>
 
         <h2 style={{ marginTop: 48 }}>Our Rwandan Network</h2>
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(4, 1fr)',
-          gap: 24,
-          marginTop: 32,
-          textAlign: 'center'
-        }}>
-          <div style={{ background: '#f7f9fc', borderRadius: 12, padding: 32 }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>🏪</div>
-            <div style={{ fontSize: 28, fontWeight: 800, color: 'var(--primary)' }}>50+</div>
-            <div style={{ fontSize: 14, color: '#555' }}>parapharmacies in Rwanda</div>
+        <div className="markets-grid">
+          <div className="markets-grid-card">
+            <div className="markets-grid-icon">🏪</div>
+            <div className="markets-grid-number">50+</div>
+            <div className="markets-grid-label">parapharmacies in Rwanda</div>
           </div>
-          <div style={{ background: '#f7f9fc', borderRadius: 12, padding: 32 }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>💊</div>
-            <div style={{ fontSize: 28, fontWeight: 800, color: 'var(--primary)' }}>15+</div>
-            <div style={{ fontSize: 14, color: '#555' }}>pharmacies in Rwanda</div>
+          <div className="markets-grid-card">
+            <div className="markets-grid-icon">💊</div>
+            <div className="markets-grid-number">15+</div>
+            <div className="markets-grid-label">pharmacies in Rwanda</div>
           </div>
-          <div style={{ background: '#f7f9fc', borderRadius: 12, padding: 32 }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>🔬</div>
-            <div style={{ fontSize: 28, fontWeight: 800, color: 'var(--primary)' }}>5+</div>
-            <div style={{ fontSize: 14, color: '#555' }}>instituts in Rwanda</div>
+          <div className="markets-grid-card">
+            <div className="markets-grid-icon">🔬</div>
+            <div className="markets-grid-number">5+</div>
+            <div className="markets-grid-label">instituts in Rwanda</div>
           </div>
-          <div style={{ background: '#f7f9fc', borderRadius: 12, padding: 32 }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>🌍</div>
-            <div style={{ fontSize: 28, fontWeight: 800, color: 'var(--primary)' }}>1</div>
-            <div style={{ fontSize: 14, color: '#555' }}>country – Rwanda</div>
+          <div className="markets-grid-card">
+            <div className="markets-grid-icon">🌍</div>
+            <div className="markets-grid-number">1</div>
+            <div className="markets-grid-label">country – Rwanda</div>
           </div>
         </div>
 

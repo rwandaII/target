@@ -19,7 +19,7 @@ export default function ContactPage() {
         </div>
       </section>
       <section className="page-body">
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 60 }}>
+        <div className="contact-grid">
           <div>
             <h2>Questions or comments?</h2>
             <p style={{ marginBottom: 24 }}>* indicates required fields</p>

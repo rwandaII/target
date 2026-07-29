@@ -1,0 +1,4855 @@
+[
+  {
+    "id": 1,
+    "label": "BABY RANGE",
+    "slug": "baby-range",
+    "children": [
+      {
+        "id": "1-1",
+        "label": "BABY MILK POWDER",
+        "slug": "baby-milk-powder",
+        "productCount": 17,
+        "products": [
+          {
+            "name": "NAN OPTIPRO N1 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NAN OPTIPRO N2 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NAN OPTIPRO N3 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON N0 1 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON N0 2 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON N0 1+ 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON N0 2+ 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON  N0  3+ 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON AR 1 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON AR 2 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON CONFORT COLIC 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIK FIRST MILK 0-6 MONTHS 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIL FOLLOW-ON MILK 6-12 MONTHS 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIL GROWING UP MILK 1YR+ 800G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE INFANT MILK N01 (0-6 MONTHS)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE INFANT MILK N02",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE INFANT MILK N03",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-2",
+        "label": "BABY FOOD & CEREALS",
+        "slug": "baby-food-cereals",
+        "productCount": 21,
+        "products": [
+          {
+            "name": "CERELAC REGULAR WHEAT 200G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC REGULAR WHEAT 500G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC REGUAL WHEAT 1KG",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC BANANA 500G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC BANANA 200G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC TROPICAL FRUIT 200G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CERELAC MIXED FRUIT 200G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE CREAM PORRIDGE 4-6 M",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE BANANA PORRIDGE 4-6 M",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE  WHOLEGRAIN PORRIDGE 6M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE POT FRUIT (APPLE&APR&STRAW)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE POTS  FRUITS  (FRUIT COCKTAIL) 4-6MOTHS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE POTS FRUIT (APPLE,BAN, ORAN)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COW&GATE POTS  FRUITS  (APPLE,MANG, PF) 4-6M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON PRONUTRA  PORRIDGE WITH GOOD NIGHT FRUIT 225G, 6M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON PRONUTRA MULTIGRAIN PORRIDGE WITH FRUITS 225G, 6M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUTRILON PRONUTRA PORRIDGE 7 CEREALS WITH FRUITS 225G, 8M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "GERBER LIL'BISCUITS 250G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIL CREAMED BANANA PORRIDGE 4-6",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIL CREAMED PORRIDGE 4-6",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "APTAMIL BANANA&BERY CEREAL 7M+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-3",
+        "label": "BABY ORAL-CARE & HEALTH-CARE PRODUCTS",
+        "slug": "baby-oral-care-health-care-products",
+        "productCount": 34,
+        "products": [
+          {
+            "name": "STEP BY STEP 0-3 TOOTH PASTE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "STEP BY STEP 4Y+ TOOTH PASTE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "STEP BY STEP TOOTH BRUSH 0-2",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "STEP BY STEP 6Y+ TOOTH BRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "STEP B STEP 3-5 Y+ TOOTH BRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": 48,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B KID TOOTH BRUSH 3Y+ (TRIPLE PACK /3)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B BABY TOOTH BRUSH 0-2Y+, (SINGLE PACK/ 1)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": 72,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL KIDS 3+ YEARS TOOTHBRUSH (SINLE PACK/1)",
+            "barcode": "3014260433499",
+            "sellingPrice": 4200,
+            "unitPrice": null,
+            "qtyInStock": 192,
+            "discontinued": null,
+            "price": 4200,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B ELECTRIC BRUSH KID SPIDERMAN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B ELECTRIC BRUSH KID FROZEN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ELMEX TOOTH PASTE 2-6 Y",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ELMEX JUNIOR TOOTH PASTE 6-12",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TOOTH PASTE 6-24M",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TOOTH PASTE 1-5Y",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U- SHAPE BABY MOUTH BRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABY FINGER TOOTHBRUSH",
+            "barcode": "6972864340193",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "AQUAFRESH BABY MILK TEETH TOOTHPASTE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "AQUAFRESH  KIDS LTTLE TEETH TOOTHPASTE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "AQUAFRESH  JUNIOR BIG TEETH  TOOTHPASTE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BATH THERMOMETER",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE MANUAL NASAL ASPIRATOR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE ELECTRIC NASAL ASPIRATOR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DR BROWN  BOTTLE WASHING BRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE  GROW BABY BOTTLE 150 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE PPU BABY BOTTLE 240 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE PPU  BABY BOTTLE 330 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DR BROWN BABY BOWL 3PCK WITH TENTIN DESIGN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BATH THERMOMETER",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABY NAIL CLIPPER",
+            "barcode": "6972864340322",
+            "sellingPrice": 3500,
+            "unitPrice": null,
+            "qtyInStock": 240,
+            "discontinued": null,
+            "price": 3500,
+            "currency": "RWF"
+          },
+          {
+            "name": "QUTIC NASAL ASPIRATOR",
+            "barcode": "8850217611054",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ONLY BABY FRUIT AND VEGETABLE FEEDER",
+            "barcode": "69766255931786",
+            "sellingPrice": 4000,
+            "unitPrice": null,
+            "qtyInStock": 144,
+            "discontinued": null,
+            "price": 4000,
+            "currency": "RWF"
+          },
+          {
+            "name": "COLGETE BABY 0-2 YEARS TOOTHBRUSH ( SINGLE PACK/1)",
+            "barcode": "6910021100013",
+            "sellingPrice": 4000,
+            "unitPrice": null,
+            "qtyInStock": 72,
+            "discontinued": null,
+            "price": 4000,
+            "currency": "RWF"
+          },
+          {
+            "name": "COLGETE KIDS 2-5 YEARS TOOTHBRUSH ( SINGLE PACK/1)",
+            "barcode": "691002100013",
+            "sellingPrice": 4000,
+            "unitPrice": null,
+            "qtyInStock": 72,
+            "discontinued": null,
+            "price": 4000,
+            "currency": "RWF"
+          },
+          {
+            "name": "FINGER TOOTHBRUSH",
+            "barcode": "6972864340193",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": 216,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-4",
+        "label": "BABY BOTTLES & OTHER DINNING UTENSILS",
+        "slug": "baby-bottles-other-dinning-utensils",
+        "productCount": 58,
+        "products": [
+          {
+            "name": "PHILIPS AVENT PHILIPS AVENT  BABY BOTTLE 4OZ/ 125ML (SHRINK WRAP), 1PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT PHILIPS AVENT  BABY BOTTLE 4OZ/ 125ML (SHRINK WRAP), 2PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT NATURAL DESIGN BABY MILK BOTTLE , 9 OZ/ 260ML 2 BOTTLES PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT NATURAL DESIGN BABY MILK BOTTLE , 9 OZ/ 260ML 1BOTTLES PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SIMULATED NATURAL BABY BOTTLE 330ML/11 OZ, 2 MILK BOTTLE PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SIMULATED NATURAL BABY BOTTLE 330ML/11 OZ, 1 MILK BOTTLE PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT ANTI-COLIC BOTTLE WITH AIRFREE, MILK RELEASE VALVE, 4OZ/125ML 1 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT ANTI-COLIC BOTTLE WITH AIRFREE, MILK RELEASE VALVE, 9OZ/260ML 1 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT ANTI-COLIC BOTTLE WITH AIRFREE, MILK RELEASE VALVE, 11OZ/330ML 1 PACK",
+            "barcode": "8008710103989760",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT DRINKING CUP WITH STRAW 200ML, (9M+)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT DRINKING CUP WITH STRAW 300ML, (12M+)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT MANUAL BREAST PUMP 1 BOTTLE OF MILK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT DOUBLE ELECTRIC BREAST PUMP 2 BOTTLES OF MILK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT BREAST PADS, BOX OF 60 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT BREAST PADS, BOX OF 24 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SUCETTE  0-6M GIRL PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SUCETTE 0-6M BOY PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SUCETTE 6-18M GIRL PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT SUCETTE 6-18M BOY PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT TEAT 6M+ PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT TEAT 0M+ PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PHILIPS AVENT TEAT 3M+ PAIR",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NATURAL FEELING BIBERON 330ML",
+            "barcode": "8058664153763",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NATURAL FEELING BIBERON 250ML",
+            "barcode": "8058664153664",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NATURAL FEELING BIBERON 150ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BABY STARTING LARGE SET",
+            "barcode": "8058664153701",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO SOOTHING PACIFIER 0-6M",
+            "barcode": "8058664171538",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO SOOTHING PACIFIER 6-18M",
+            "barcode": "8058664171569",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 6M+",
+            "barcode": "8058664008254",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 4M+",
+            "barcode": "8058664008247",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 2 M+",
+            "barcode": "8058664008209",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 0M+",
+            "barcode": "8058664010424",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE  GROW BABY BOTTLE 150 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE PPU BABY BOTTLE 240 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE PPU  BABY BOTTLE 330 ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOMMEE TIPPEE BIG KID SPOON & FORK PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOMME TIPPEE HEAT SENSE SPOON  2 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUBY BABY CUP 4-12M CUP  240ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUBY BABY CUP 12-18M CUP  330ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUBY BABY SPOON 4M  2PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUBY SUCTION BABY BOWLS 2PK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DR BROWN TEAT OM+",
+            "barcode": "072239317532",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUK TEAT 0-6 M",
+            "barcode": "4008600169574",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NUK TEAT 6-18 M",
+            "barcode": "4008600169338",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DR BROWN  TEAT 9M+",
+            "barcode": "07739317570",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MAM TEAT OM+",
+            "barcode": "9001616203350",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MAM TEAT 2M+",
+            "barcode": "9001616203616",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MAM TEAOT 4M+",
+            "barcode": "9001616203626",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOMMEE TEAT 3 M+",
+            "barcode": "5010415245854",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 6M+",
+            "barcode": "8058664008254",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 4M+",
+            "barcode": "8058664008247",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 2 M+",
+            "barcode": "8058664008209",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO TEAT 0M+",
+            "barcode": "8058664010424",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VITAL BABY TEAT 6 M+",
+            "barcode": "5060428198364",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VITAL BABY TEAT 3M+",
+            "barcode": "5060428198357",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM POWER + HEADS",
+            "barcode": "5028763005822",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE TEATINE",
+            "barcode": "663234069344",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BUDDEES  WATER  FILLED TEETHER",
+            "barcode": "8859140160202",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-5",
+        "label": "BABY DIAPERING & ACCESSORIES PRODUCTS",
+        "slug": "baby-diapering-accessories-products",
+        "productCount": 13,
+        "products": [
+          {
+            "name": "PAMPERS N02  (3-8 KG) MINI PACK 40 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 3 SMALL  (6-10 KG) 30PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO4 SMALL (9-14KG) 25 PIECE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 5 SMALL (11-16KG) 23 PIECE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 6 SMALL  (13-18KG) 19PIECE",
+            "barcode": "8006540827338",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS N02 (2-5KG)  102 PCs DOUBLE PCK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 3 BIG  (6-10 KG) 98 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 4 (9-14KG) 84 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPESR N0 5 (11-16KG) 72 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 6 (13-18KG) 62 PIECE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 7 (15+KG) 52 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS NO 8 (17+KG) 52 PIECE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "PAMPERS WIPES 52 PIECES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-6",
+        "label": "BABY COSMETICS & BABY SKINCARE PRODUCTS",
+        "slug": "baby-cosmetics-baby-skincare-products",
+        "productCount": 11,
+        "products": [
+          {
+            "name": "CHICCO BABY SHAMPOO 500ML",
+            "barcode": "8058664138425",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BODY LOTION 500ML LIGHT 97%",
+            "barcode": "8058664129348",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BODY LOTION CREAM 500ML 82%",
+            "barcode": "8058664138463",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO MASSAGE OIL 200ML",
+            "barcode": "8058664129331",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NAPY CREAM 100ML",
+            "barcode": "8058664129355",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BABY BAR SOAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOPICREAM BABY BAR SOAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOPICREAM BABY MILK 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SUDOCREAM 60g",
+            "barcode": "5017007601333",
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 216,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          },
+          {
+            "name": "SUDOCREAM 125g",
+            "barcode": "5017007601289",
+            "sellingPrice": 15000,
+            "unitPrice": null,
+            "qtyInStock": 240,
+            "discontinued": null,
+            "price": 15000,
+            "currency": "RWF"
+          },
+          {
+            "name": "SUDOCREAM 250g",
+            "barcode": "5017007601302",
+            "sellingPrice": 19500,
+            "unitPrice": null,
+            "qtyInStock": 240,
+            "discontinued": null,
+            "price": 19500,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "1-new",
+        "label": "NEW ARRIVALS",
+        "slug": "new-arrivals",
+        "productCount": 3,
+        "products": [
+          {
+            "name": "CONCORD SINGLE BRUSH (S,H,M) WITH FLOSS",
+            "barcode": null,
+            "sellingPrice": 5000,
+            "unitPrice": null,
+            "qtyInStock": 372,
+            "discontinued": null,
+            "price": 5000,
+            "currency": "RWF"
+          },
+          {
+            "name": "QUTIE NASAL ASPIRATOR",
+            "barcode": null,
+            "sellingPrice": 5000,
+            "unitPrice": null,
+            "qtyInStock": 288,
+            "discontinued": null,
+            "price": 5000,
+            "currency": "RWF"
+          },
+          {
+            "name": "DETTOL WIPES",
+            "barcode": null,
+            "sellingPrice": 4000,
+            "unitPrice": null,
+            "qtyInStock": 48,
+            "discontinued": null,
+            "price": 4000,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "MOTHER & LADY RANGE",
+    "slug": "mother-lady-range",
+    "children": [
+      {
+        "id": "2-1",
+        "label": "PREGNANT & BREASTFIDING MOTHER",
+        "slug": "pregnant-breastfiding-mother",
+        "productCount": 13,
+        "products": [
+          {
+            "name": "BAODA BREAST PADS 60 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ONLY BABY BREAST PADS 30 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ONLY BABY BREAST PADS 60 PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ONLY BABY BREAST PUMP",
+            "barcode": "6977252930352",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BAODA MANUAL BREAST PUMP",
+            "barcode": "6937266980071",
+            "sellingPrice": 38000,
+            "unitPrice": null,
+            "qtyInStock": 72,
+            "discontinued": null,
+            "price": 38000,
+            "currency": "RWF"
+          },
+          {
+            "name": "BAODA ELECTRIC BREAST PUMP",
+            "barcode": "6937266980064",
+            "sellingPrice": 55000,
+            "unitPrice": null,
+            "qtyInStock": 40,
+            "discontinued": null,
+            "price": 55000,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABE SILCONE NIPPLE SHIELD",
+            "barcode": "0663234069559",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TOMMEE TIPPE BREAST PADS B/40",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "LANSINOH BREAST PADS B/60",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NIPLE SHIELD",
+            "barcode": "8058664070473",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO NIPLE CREAM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BREAST PADS B/30",
+            "barcode": "8003670845843",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHICCO BREAST PADS B/60",
+            "barcode": "8003670989257",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "2-2",
+        "label": "FEMININE INTIMATE CARE TOILETRIES",
+        "slug": "feminine-intimate-care-toiletries",
+        "productCount": 27,
+        "products": [
+          {
+            "name": "OB Tampons - Original Normal 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "OB Tampons - Original Super Plus 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "OB Tampons - Pro-Comfort Super Plus 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "OB Tampons - Original Super 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "OB Tampons - Pro-Comfort Normal 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "OB Tampons - Pro-Comfort Super 16 pieces",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "tampax regular 20's",
+            "barcode": "4015400363033",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "tampax super 20's",
+            "barcode": "4015400363002",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "tampax super plus 20's",
+            "barcode": "4015400363064",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex tampons regular 16'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex tampons super 16'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex tampons super plus 16'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex pantyliner regular 100'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex pantyliner regular 40'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "U kotex pantyliner regular 20",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "V wash pantyliner long 50'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "V wash pantyliner long 30'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Always pantyliner Long 16'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Always pantyliner Long 54'",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WASH ODOR BLOC 200ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WASH PH BALANCED  200ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WASH DAILY GENTLE 200ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE  ANTI-BACTERIAL INTIMATE WASH  200ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WIPES ODOR BLOC 10/PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WIPES PH BALANCED  10/PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE INTIMATE WIPES DAILY GENTLE 10/PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BETADINE  ANTI-BACTERIAL INTIMATE WIPES  10/PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "FATHER CARE & GROOMING",
+    "slug": "father-care-grooming",
+    "children": [
+      {
+        "id": "3-1",
+        "label": "FATHER CARE & GROOMING",
+        "slug": "father-care-grooming",
+        "productCount": 3,
+        "products": [
+          {
+            "name": "gillette 2 razor 5's",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SMOOTH SHAVER TRIPPLE BLADE RAZOR",
+            "barcode": "7070110669940",
+            "sellingPrice": 11500,
+            "unitPrice": null,
+            "qtyInStock": 144,
+            "discontinued": null,
+            "price": 11500,
+            "currency": "RWF"
+          },
+          {
+            "name": "BORD TRIPLE BLADE  RAZOR",
+            "barcode": "6711253100259",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "DIETS & NATURAL REMEDY & FOOD SUPPLEMENTS",
+    "slug": "diets-natural-remedy-food-supplements",
+    "children": []
+  },
+  {
+    "id": 5,
+    "label": "COSMETICS & SKIN CARE RPDUCTS",
+    "slug": "cosmetics-skin-care-rpducts",
+    "children": [
+      {
+        "id": "5-1",
+        "label": "FACE CARE",
+        "slug": "face-care",
+        "productCount": 13,
+        "products": [
+          {
+            "name": "carmex lip balm tube 10g classic",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "carmex lip balm tube 10g strawberry",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "carmex lip balm tube 10g cherry",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "carmex lip balm 7.5g classic pot",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Labello Lipcare - Soft Rosé 4.8 gr",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Labello Lipcare - Watermelon Shine 4.8 gr.",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Labello Lipcare - Classic 4.8 gr.",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Labello Lipcare - Cherry Shine 4.8 gr.",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VASELINE LIP THERAPY ORIGINAL",
+            "barcode": "05099802150117",
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 144,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          },
+          {
+            "name": "VASELINE LIP THERAPY THERAPY ROSY",
+            "barcode": "05006486100000",
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 120,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          },
+          {
+            "name": "VASELINE LIP THERAPY ALOE",
+            "barcode": "08714100597347",
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 96,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          },
+          {
+            "name": "CHERRY COTTON PADS",
+            "barcode": "6920180311601",
+            "sellingPrice": 2500,
+            "unitPrice": null,
+            "qtyInStock": 144,
+            "discontinued": null,
+            "price": 2500,
+            "currency": "RWF"
+          },
+          {
+            "name": "DETOL SKIN AND SURFACE WIPES",
+            "barcode": "8901396388135",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "5-2",
+        "label": "FOOT & HAND CARE",
+        "slug": "foot-hand-care",
+        "productCount": 3,
+        "products": [
+          {
+            "name": "DOVE HAND CREAM 75ML COCONUT & ALMOND RESTORING RITUAL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NIVEA Q10 HAND CREAM 30ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VASELINE HAND AND NAIL CREAM 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "PERSONAL CARE & HYGIENICS",
+    "slug": "personal-care-hygienics",
+    "children": [
+      {
+        "id": "6-1",
+        "label": "PERSONAL CARE & HYGIENICS",
+        "slug": "personal-care-hygienics",
+        "productCount": 12,
+        "products": [
+          {
+            "name": "CONCORDE BABY NAIL CLIPPER SET",
+            "barcode": null,
+            "sellingPrice": 16000,
+            "unitPrice": null,
+            "qtyInStock": 50,
+            "discontinued": null,
+            "price": 16000,
+            "currency": "RWF"
+          },
+          {
+            "name": "CONCORDE ESSENTIAL GROOMING KIT FOR MEN",
+            "barcode": "663234016508",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CONCORDE NAIL CLIPPER  PAIR",
+            "barcode": "663234012791",
+            "sellingPrice": 5000,
+            "unitPrice": null,
+            "qtyInStock": 96,
+            "discontinued": null,
+            "price": 5000,
+            "currency": "RWF"
+          },
+          {
+            "name": "COCORDE NAIL CLIPPER SINGLE",
+            "barcode": "66323401421",
+            "sellingPrice": 3500,
+            "unitPrice": null,
+            "qtyInStock": 60,
+            "discontinued": null,
+            "price": 3500,
+            "currency": "RWF"
+          },
+          {
+            "name": "VEET CREAM NORMAL SKIN 100ML",
+            "barcode": "5011417539873",
+            "sellingPrice": 5500,
+            "unitPrice": null,
+            "qtyInStock": 216,
+            "discontinued": null,
+            "price": 5500,
+            "currency": "RWF"
+          },
+          {
+            "name": "VEET CREAM DRY SKIN 100ML",
+            "barcode": "9300701249021",
+            "sellingPrice": 5500,
+            "unitPrice": null,
+            "qtyInStock": 120,
+            "discontinued": null,
+            "price": 5500,
+            "currency": "RWF"
+          },
+          {
+            "name": "VEET CREAM SENSITIVE 100ML",
+            "barcode": "5000158062993",
+            "sellingPrice": 5500,
+            "unitPrice": null,
+            "qtyInStock": 240,
+            "discontinued": null,
+            "price": 5500,
+            "currency": "RWF"
+          },
+          {
+            "name": "DETTOL ANTISEPTIC LIQUID 125ML",
+            "barcode": "8901396350200",
+            "sellingPrice": 2800,
+            "unitPrice": null,
+            "qtyInStock": 96,
+            "discontinued": null,
+            "price": 2800,
+            "currency": "RWF"
+          },
+          {
+            "name": "DETTOL ANTISEPTIC LIQUID 250ML",
+            "barcode": "8901396530309",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DETTOL ANTISEPTIC LIQUID 550ML",
+            "barcode": "8901396354604",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VELVEX TISSUE B/80",
+            "barcode": "616110076059",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "VELVEX TISSUE B/200",
+            "barcode": "6161100763968",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "MEDICAL DEVICES & HOSPITAL NEEDS",
+    "slug": "medical-devices-hospital-needs",
+    "children": [
+      {
+        "id": "7-1",
+        "label": "MEDICAL SCRUBS UNIFORM SHORT SLEEVE",
+        "slug": "medical-scrubs-uniform-short-sleeve",
+        "productCount": 20,
+        "products": [
+          {
+            "name": "Dr. SCHOOL'S GREEN SCRUB UNIFORM SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S GREEN SCRUB UNIFORM MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S GREEN SCRUB UNIFORM LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S GREEN SCRUB UNIFORM X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S GREEN SCRUB UNIFORM XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S BLUE SCRUB UNIFORM SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S BLUE SCRUB UNIFORM MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S BLUE SCRUB UNIFORM LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S BLUE SCRUB UNIFORM X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S BLUE SCRUB UNIFORM XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S MARRON SCRUB UNIFORM SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S MARRON SCRUB UNIFORM MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S MARRON SCRUB UNIFORM LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S MARRON SCRUB UNIFORM X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S MARRON SCRUB UNIFORM XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-2",
+        "label": "MEDICAL SCRUBS UNIFORM LONG SLEEVE",
+        "slug": "medical-scrubs-uniform-long-sleeve",
+        "productCount": 15,
+        "products": [
+          {
+            "name": "Dr SCHOLL'S NAVY BLUE SCRUB UNIFORM  SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S NAVY BLUE SCRUB UNIFORM  MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S NAVY BLUE SCRUB UNIFORM  LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S NAVY BLUE SCRUB UNIFORM  X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S NAVY BLUE SCRUB UNIFORM  XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S GREEN SCRUB UNIFORM  SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S GREEN SCRUB UNIFORM  MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S GREEN SCRUB UNIFORM  LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S GREEN SCRUB UNIFORM  X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr SCHOLL'S GREEN SCRUB UNIFORM  XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOOL'S PURPLE SCRUB UNIFORM XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-3",
+        "label": "MEDICAL DOCTOR'S LAB COAT WHITE WITH BLUE DESIGN LONG SLEEVE",
+        "slug": "medical-doctor-s-lab-coat-white-with-blue-design-long-sleeve",
+        "productCount": 5,
+        "products": [
+          {
+            "name": "MEDICAL DOCTOR'S WHITE COAT LONG SLEEVE WITH BLUE DESIGN SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL DOCTOR'S WHITE COAT LONG SLEEVE WITH BLUE DESIGN MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL DOCTOR'S WHITE COAT LONG SLEEVE WITH BLUE DESIGN LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL DOCTOR'S WHITE COAT LONG SLEEVE WITH BLUE DESIGN X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL DOCTOR'S WHITE COAT LONG SLEEVE WITH BLUE DESIGN XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-4",
+        "label": "MEDICAL NURSE'S LAB COAT WHITE STOPPER SLEEVE",
+        "slug": "medical-nurse-s-lab-coat-white-stopper-sleeve",
+        "productCount": 5,
+        "products": [
+          {
+            "name": "NURSE'S WHITE COAT STOPPER SLEEVE WITH BLUE DESIGN SMALL",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NURSE'S WHITE COAT STOPPER SLEEVE WITH BLUE DESIGN MEDIUM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NURSE'S WHITE COAT STOPPER SLEEVE WITH BLUE DESIGN LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NURSE'S WHITE COAT STOPPER SLEEVE WITH BLUE DESIGN X-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "NURSE'S WHITE COAT STOPPER SLEEVE WITH BLUE DESIGN XX-LARGE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-5",
+        "label": "HOSPITAL BED IN BOX",
+        "slug": "hospital-bed-in-box",
+        "productCount": 5,
+        "products": [
+          {
+            "name": "Dr. SCHOLL'S HOSPITAL MEMORY PILLOW",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOLL'S HOSPITAL PILLOW COVER",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOLL'S HOSPITAL BED SHEET PAIR  160*210Cm",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOLL'S HOSPITAL BED BLANKET PURE COTTON 180*220Cm",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Dr. SCHOLL'S HOSPITAL BED COVER 180*220",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-6",
+        "label": "MEDICAL (DOCTOR'S & NURSES) SHOES CLOG & BLOCK",
+        "slug": "medical-doctor-s-nurses-shoes-clog-block",
+        "productCount": 13,
+        "products": [
+          {
+            "name": "MEDICAL SHOES CLOSE BLUE PEN No 40 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE BLUE PEN No 41 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE BLUE PEN No 42 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE BLUE PEN No 43 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE BLUE PEN No 42 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE DARK GREEN No 40 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE DARK GREEN No 41 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE DARK GREEN No 42 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE DARK GREEN No 43 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE WHITE No 39 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE WHITE No 40 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE WHITE No 41 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MEDICAL SHOES CLOSE WHITE No 42 BLOC WITH STRAP",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-7",
+        "label": "DIABETIC SHOES",
+        "slug": "diabetic-shoes",
+        "productCount": 13,
+        "products": [
+          {
+            "name": "DIABETIC SANDALS OPEN BLACK MEN  N0 42",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SANDALS OPEN BLACK MEN  N0 43",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SANDALS OPEN BLACK MEN  N0 44",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN BLACK ,CLOSE 42",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN BLACK ,CLOSE 43",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN BLACK ,CLOSE 44",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN SOUPRESS CLOSE 42",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN SOUPRESS CLOSE 43",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES MEN SOUPRESS CLOSE 44",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SANDALS OPEN BLACK WOMEN  N0 39",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SANDALS OPEN BLACK WOMEN  N0 40",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES WOMEN BLACK ,CLOSE 39",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIABETIC SHOES WOMEN BLACK ,CLOSE 40",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-8",
+        "label": "MEDICAL MASSAGE SHOES",
+        "slug": "medical-massage-shoes",
+        "productCount": 10,
+        "products": [
+          {
+            "name": "MASSAGE SANDALS OPEN BROWN MEN  N0 42",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SANDALS OPEN BROWN MEN  N0 43",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SANDALS OPEN BROWN MEN  N0 44",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SLIPPERS OPEN BROWN MEN  N0 42",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SLIPPERS OPEN BROWN MEN  N0 43",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SLIPPERS OPEN BROWN MEN  N0 44",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SANDALS OPEN BLACK-PUPLE WOMEN  N0 39",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SANDALS OPEN BLACK-PUPLE WOMEN  N0 40",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SLIPPERS OPEN BROWN WOMEN  N0 39",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE SLIPPERS OPEN BROWN WOMEN  N0 40",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "7-9",
+        "label": "OTHER MEDICAL DEVICES & PARAPHARMACEUTICALS",
+        "slug": "other-medical-devices-parapharmaceuticals",
+        "productCount": 10,
+        "products": [
+          {
+            "name": "SURGEON'S HEAD COVER HAT",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "INDUSTRIES HEAD COVER HAT",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MOUTH COVER KN95 INDUSTRIAL WHITE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MOUTH COVER MEDICAL USE BLUE-WHITE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE GUNS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "MASSAGE BALLS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "BABY HALER DEVICES",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DIGITAL THERMOMETTERS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "STETOSCOPE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "TENSIOMETRE",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "label": "HOUSEHOLD & HOME NEEDS PRODUCTS",
+    "slug": "household-home-needs-products",
+    "children": [
+      {
+        "id": "8-1",
+        "label": "HOUSEHOLD & HOME NEEDS PRODUCTS",
+        "slug": "household-home-needs-products",
+        "productCount": 1,
+        "products": [
+          {
+            "name": "HOT WATER BAG",
+            "barcode": "663234064332",
+            "sellingPrice": 15000,
+            "unitPrice": null,
+            "qtyInStock": 96,
+            "discontinued": null,
+            "price": 15000,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "label": "CHEMICALS & ESSENTIAL  OILS",
+    "slug": "chemicals-essential-oils",
+    "children": [
+      {
+        "id": "9-1",
+        "label": "CHEMICALS & ESSENTIAL  OILS",
+        "slug": "chemicals-essential-oils",
+        "productCount": 17,
+        "products": [
+          {
+            "name": "HUILE ESSENTIAL LAVENDER 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL DE NOI DE COCO 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL D' OLIVE 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL D' AMANDE DOUCE 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL DE RACIN 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL DE SESAME 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL MUTARD 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL GARLIC 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL D'ARGAN 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL DE RAISIN 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE ESSENTIAL DE GINGER 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE VITAMIN E 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": 48,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE MIEL 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE CARROTTE 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE YLAN-YLANG 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE PEPPERMINT 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "HUILE DE PALME 250ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "label": "FOOD RANGE & DIETS & FOOD SUPPLEMENTS",
+    "slug": "food-range-diets-food-supplements",
+    "children": [
+      {
+        "id": "10-1",
+        "label": "CANDEREL REFILL PACK 5*100 TABLE SACHETS",
+        "slug": "canderel-refill-pack-5-100-table-sachets",
+        "productCount": 5,
+        "products": [
+          {
+            "name": "CANDEREL GRANULAR LOW CALORI SWEETENER 75G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CANDEREL TABLET 300 PCS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CANDEREL TABLET 100 PCS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SWEETEX CALORIE FREE SWEETNER 1200 TABLETS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ARM&HAMMER 100% NATURAL BACKING SODA 250G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "label": "SEXUAL HEALTH & ACCESSORIES PRODUCTS",
+    "slug": "sexual-health-accessories-products",
+    "children": [
+      {
+        "id": "11-1",
+        "label": "SEXUAL HEALTH & ACCESSORIES PRODUCTS",
+        "slug": "sexual-health-accessories-products",
+        "productCount": 14,
+        "products": [
+          {
+            "name": "DUREX B/10 EXTRA-DOT",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/10 EXTRA-RIBBED",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/10 EXTRA-THIN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/1O EXTRA-TIME",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/3 EXTRA RIBBED",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/3 EXTRA-TIME",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/3 EXTRA-DOT",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX B/3 EXTRA-THIN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX LUBRICANT CLASSIC BLUE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX LUBRICANT STRAWBERRY 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX LUBRICANT CHERRY 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX LUBRICANT PERFECT GLIDE 50ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX  ORAGASMIC INTENSE 10ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DUREX  PLAY CLASSIC LUBRICANT H2O 50ml",
+            "barcode": "9556111992440",
+            "sellingPrice": 16500,
+            "unitPrice": null,
+            "qtyInStock": 72,
+            "discontinued": null,
+            "price": 16500,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "label": "ORAL CARE & ACCESSORIES",
+    "slug": "oral-care-accessories",
+    "children": [
+      {
+        "id": "12-1",
+        "label": "ORAL CARE & ACCESSORIES",
+        "slug": "oral-care-accessories",
+        "productCount": 18,
+        "products": [
+          {
+            "name": "TOOTHPASTE ,TOOTHBRUSH AND FLOSS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Sensodyne 75ml gentle whitening toothpaste",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Sensodyne 75ml pronamel whitening toothpaste",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ARM&HAMMER SENSITIVE TOOTHPASTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ORTHO CLREAN TOOTHPASTE 100ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM SMOKERS TOOTHPASTE 100ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ACTIVE WHITENING TOOTHPASTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM SENSITIVE WHITENING TOOTHPASTE 100ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM STEP BY STEP TOOTHPASTE (0-3) YEARS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM STEP BY STEP TOOTHPASTE (4+) YEARS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B 3D WHITE PERFECTION TOOTHPSTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B 3D WHITE SENSIBILITY & GUM TOOTHPSTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B  PRO-REPAIR TOOTHPSTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B 3D WHITE ADVANCED CHARCOAL TOOTHPSTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B  PRO-EXPERT TOOTHPSTE 75ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SENSODYNE SOFT SINGLE TOOTHBRUSH",
+            "barcode": null,
+            "sellingPrice": 5000,
+            "unitPrice": null,
+            "qtyInStock": 288,
+            "discontinued": null,
+            "price": 5000,
+            "currency": "RWF"
+          },
+          {
+            "name": "SENSODYNE SOFT TOOTHBRUSH B/4",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B ADULT TOOTHBRUSH B/4 BLACK",
+            "barcode": null,
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 216,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "12-2",
+        "label": "MOUTHWASH",
+        "slug": "mouthwash",
+        "productCount": 18,
+        "products": [
+          {
+            "name": "listerine coolmint 250ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine freshburst 250ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine coolmint 500ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine freshburst 500ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine total care 250ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine coolmint 95ml pocket size",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine freshburst 95ml pocket size",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine total care 95ml Pocket size",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "listerine KIDS mouthwash 250ml",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ACTIVE WHITENING CHARCOAL MOUTHWASH 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ORTHO CLREAN MOUTH WASH 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM SMOKERS ANTI-STAIN MOUTHWASH 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM TOTAL CARE FRESH EFFECT MOUTH WASH 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM CHLORHEXIDINE ANTIBACTERIAL 300ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM FRESH CLEAN COOLMINT MOUTH WASH 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WASDOM STEP BY STEP FLUORIDE MOUTHWASH 6+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B PRO-EXPERT PROFESSIONAL PROTECTION 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B 3DWHITE PERFECTION ALCOOL FREE 500ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "12-3",
+        "label": "MOUTHSPRAY",
+        "slug": "mouthspray",
+        "productCount": 3,
+        "products": [
+          {
+            "name": "LISTERINE MOUTH SPRAY FRESHBURST 10ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "LISTERINE MOUTH SPRAY COOLMINT 10ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM FRESH EFFECT MINT SPRAY 30ML",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      },
+      {
+        "id": "12-4",
+        "label": "TOOTHBRUSH & FLOSS",
+        "slug": "toothbrush-floss",
+        "productCount": 36,
+        "products": [
+          {
+            "name": "CONCORDE ADULT TOOTH BRUSH WITH FLOSS SOFT",
+            "barcode": "663234065155",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CONCORDE ADULT TOOTH BRUSH WITH FLOSS MEDIUM",
+            "barcode": "663234065155",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CONCORDE ADULT TOOTHBRUSH WITH FLOSS HARD",
+            "barcode": "663234065155",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "CONCORDE ADULT TOOTH BRUSH WITH FLOSS ULT SOFT",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COLOGATE BABY TOOTHBRUSH 2-5YR B/1",
+            "barcode": "6001067018049",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "COLOGATE BABY TOOTHBRUSH 0-2YR B/1",
+            "barcode": "6910021100013",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SENSODYNE TOOTH BRUSH B/3",
+            "barcode": "8901571011018",
+            "sellingPrice": 8500,
+            "unitPrice": null,
+            "qtyInStock": 287,
+            "discontinued": null,
+            "price": 8500,
+            "currency": "RWF"
+          },
+          {
+            "name": "SENSODYNE SINGLE TOOTH  BRUSH (SINGLE PACK/1)",
+            "barcode": "8901571010998",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B KID TOOTH BRUSH 2Y+ (TRIPLE PACK /3)",
+            "barcode": "4987176226532",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B KID TOOTH BRUSH 3Y+ B/1",
+            "barcode": "3014260306779",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B KID TOOTH BRUSH 3Y+ (TRIPLE PACK /3)",
+            "barcode": null,
+            "sellingPrice": 8200,
+            "unitPrice": null,
+            "qtyInStock": 48,
+            "discontinued": null,
+            "price": 8200,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B BABY TOOTH BRUSH 0-2Y+, (SINGLE PACK/ 1)",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL B CAVITY DEFENSE TOOTHBRUSH B/4",
+            "barcode": "4987176202420",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SIGNAL KID TOOTH BRUSH 3-8Y+",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "oral b kids 2+ years toothbrush",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "oral b complete clean toothbrush medium",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "oral b 1-2-3 toothbrush classic twin",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "oral b all rounder black toothbrush medium",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "sensodyne toothbrush soft sensitive",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "oral b essential floss 50m unwaxed",
+            "barcode": "5010522005029",
+            "sellingPrice": 5500,
+            "unitPrice": null,
+            "qtyInStock": 288,
+            "discontinued": null,
+            "price": 5500,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORTHO CLEAN TOOTHBRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM NEW FLOSS HARPS*30",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ACTIVE WHITENING CHARCOAL FLOSS 50M",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM CLEAN BETWEEN FLOSSER WHITE 30'S",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM XTRA CLEAN MEDIUM TWIN PACK TOOTHBRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B PRO-EXPERT PREMIUM FLOSS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM KID SOFT START TOOTHBRUSH 3+ TWIN PACK",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM STEP BY STEP TOOTHBRUSH 0-2 YYRS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM STEP BY STEP TOOTHBRUSH 3-5 YYRS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM STEP BY STEP TOOTHBRUSH 6-8 YYRS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM ACTIVE WHITENING CHARCOAL  FLOSS HARPS*30",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "WISDOM XTRA CLEAN MEDIUM TWIN PACK TOOTHBRUSH",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "ORAL-B PRO-EXPERT PREMIUM FLOSS",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DENT.ASK PLUS FIT REPLACEMENT",
+            "barcode": "8055002863339",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DENT.TOTAL FLOS  REPLACEMENT",
+            "barcode": "8051739601374",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "DENT.ASK EXTRA MEDIUM REPLACEMENT",
+            "barcode": "8055002863346",
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "label": "HEALTHCARE PRODUCTS",
+    "slug": "healthcare-products",
+    "children": []
+  },
+  {
+    "id": 14,
+    "label": "MOBILITY & ORTHOPEDY",
+    "slug": "mobility-orthopedy",
+    "children": []
+  },
+  {
+    "id": 15,
+    "label": "MEDICATED FLAGRANCE & PARFUMS & ROLL-ONS",
+    "slug": "medicated-flagrance-parfums-roll-ons",
+    "children": [
+      {
+        "id": "15-1",
+        "label": "MEDICATED FLAGRANCE & PARFUMS & ROLL-ONS",
+        "slug": "medicated-flagrance-parfums-roll-ons",
+        "productCount": 9,
+        "products": [
+          {
+            "name": "Dove 0% Aluminum Deodorant 24 Hour Odour Protection Safe for Sensitive Skin 74 G",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SECRET ALUMINIUM FREE 72H CLINICALLY PROVEN  WOMEN",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Suave Men Aluminum-Free Deodorant ocean charge 48h, 76g",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Degree women Clinical P 5-in-1 Antiperspirant 1.70 oz",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Degree Men Clean Clinical Antiperspirant Deodorant 1.7 oz",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Degree Men UltraClear+ Antiperspirant Deodorant, Black & White, 2.7 oz, 3-Count",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "Degree Whole Body Deodorant Stick, + Absorbs Sweat, Aluminum Free 72H",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SECRET ALUMINIUM FREE 48H, PH BALANCED LEVENDER",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          },
+          {
+            "name": "SECRET ALUMINIUM FREE 48H, PH BALANCED CHERRY & BLOSSOM",
+            "barcode": null,
+            "sellingPrice": null,
+            "unitPrice": null,
+            "qtyInStock": null,
+            "discontinued": null,
+            "price": null,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "label": "MAKE-UPS & ACCESSORIES",
+    "slug": "make-ups-accessories",
+    "children": []
+  },
+  {
+    "id": 17,
+    "label": "HAIRCARE PRODUCTS & ACCESSORIES",
+    "slug": "haircare-products-accessories",
+    "children": []
+  },
+  {
+    "id": 18,
+    "label": "TARGET BRAND",
+    "slug": "target-brand",
+    "children": []
+  },
+  {
+    "id": 19,
+    "label": "OTCs",
+    "slug": "otcs",
+    "children": [
+      {
+        "id": "19-1",
+        "label": "OVER THE COUNTER MEDICINES AND TOPICAL",
+        "slug": "over-the-counter-medicines-and-topical",
+        "productCount": 2,
+        "products": [
+          {
+            "name": "VICKS VAPORUB 50G",
+            "barcode": "8006540139530",
+            "sellingPrice": 8000,
+            "unitPrice": null,
+            "qtyInStock": 300,
+            "discontinued": null,
+            "price": 8000,
+            "currency": "RWF"
+          },
+          {
+            "name": "VICKS INHALER",
+            "barcode": "4987176191373",
+            "sellingPrice": 4000,
+            "unitPrice": null,
+            "qtyInStock": 240,
+            "discontinued": null,
+            "price": 4000,
+            "currency": "RWF"
+          }
+        ]
+      }
+    ]
+  }
+]
